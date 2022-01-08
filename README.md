@@ -1,5 +1,5 @@
 # Station-Essence
-Se script est en RageuiV2 0.01ms
+Se script est en RageuiV2 0.00ms
 
 # Resmon
 

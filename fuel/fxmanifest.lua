@@ -24,7 +24,7 @@ client_scripts {
 	---- InitRessource ----
 	-----------------------
     'client.lua',
-    'config.lua',
+
 }
 
 server_scripts {

@@ -141,7 +141,7 @@ local position = {
 
 local blips = true
 
-Citizen.CreateThread(function() -------------[Location de Vehicules]
+Citizen.CreateThread(function() -------------[Stations Essences]
   if blips == true then
       for k, v in pairs(position) do
           local blip = AddBlipForCoord(v.x, v.y, v.z)
@@ -152,7 +152,7 @@ Citizen.CreateThread(function() -------------[Location de Vehicules]
           SetBlipAsShortRange(blip, true)
 
           BeginTextCommandSetBlipName('STRING')
-          AddTextComponentSubstringPlayerName('Location de Vehicules')
+          AddTextComponentSubstringPlayerName('Stations Essences')
           EndTextCommandSetBlipName(blip)
       end
   end

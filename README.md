@@ -1,6 +1,6 @@
 # Station-Essence
-Se script est en RageuiV2 0.00ms
-
+Se script est en RageuiV2 0.00ms pour en savoir plus -> https://discord.gg/QDc73sHGgj
+ 
 # Resmon
 
 ![unknown](https://user-images.githubusercontent.com/88659966/144708367-4df0740e-7d1f-4268-90e7-bccf21031130.png)
